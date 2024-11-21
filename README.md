@@ -20,8 +20,6 @@ HTTP 205 RESET CONTENT - catch you on the next LOAD! 😄
 
 (And thanks for the totally awesome retro-computing break! 🖥️)
 
-Refer to https://github.com/rebots-online/bolt-generated-project-human-ai-coaligner/blob/main/.bolt-context/meta/coalignment-vision.md and realized in https://github.com/rebots-online/bolt-generated-project-human-ai-coaligner/blob/main/.bolt-context/meta/dp3-concept.md
-
 T
 # eKimosab: Human-AI Coalignment Through Partnership
 
